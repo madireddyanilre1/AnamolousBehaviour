@@ -1,0 +1,21 @@
+Link:https://www.kaggle.com/datasets/odins0n/ucf-crime-dataset
+Link:https://www.crcv.ucf.edu/projects/real-world/
+The UCF-Crime dataset is quite comprehensive and consists of 128 hours of video. 13 
+real abnormalities, including abuse, arson, assault, car accidents, explosions, fights, 
+robberies, shootings, shoplifting, and vandalism, are included among the 1900 uncut, 
+extended real-world surveillance films.
+The dataset has a total of 14 Classes:
+1. Abuse
+2. Arrest
+3. Arson
+4. Assault
+5. Burglary
+6. Explosion
+7. Fighting
+8. Normal Videos
+9. Road Accidents
+10. Robbery
+11. Shooting
+12. Shoplifting
+13. Stealing
+14. Vandalism
